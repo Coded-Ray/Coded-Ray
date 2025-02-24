@@ -6,7 +6,7 @@
 
 I am a **Software Developer** with a passion for **open-source projects** and **web development**.
 
-- 🌱 I’m currently learning **Rust** and advanced **JavaScript frameworks**.
+- 🌱 I’m currently learning **JavaScript frameworks**.
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 📫 How to reach me: [gitaubrian425@gmail.com](mailto:gitaubrian425@gmail.com).
 
